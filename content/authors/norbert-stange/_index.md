@@ -1,9 +1,8 @@
 ---
-title: Dennis Brotzky
-bio: |
+title: Norbert Stange
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: "/images/dennis-brotzky.jpg"
+avatar: "/images/n.jpg"
 featured: true
 social:
 - title: unsplash
