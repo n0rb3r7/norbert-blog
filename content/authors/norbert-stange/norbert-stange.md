@@ -1,8 +1,10 @@
 +++
 avatar = "/images/n.jpg"
-bio = "Please, my bio here."
+bio = "Need to write this all over again?"
 featured = true
-social = []
 title = "Norbert Stange"
+[[social]]
+title = "GitHub"
+url = "https://github.com/n0rb3r7"
 
 +++
