@@ -1,7 +1,6 @@
 +++
 avatar = "/images/n.jpg"
 bio = "My mini story"
-draft = true
 featured = true
 title = "Norbert Stange"
 [[social]]
