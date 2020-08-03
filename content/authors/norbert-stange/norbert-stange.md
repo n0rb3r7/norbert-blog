@@ -1,15 +1,4 @@
----
-title: Norbert Stange
-bio: |
-  Need to write this all over again?
-avatar: "/images/n.jpg"
-featured: true
-social:
-- title: github
-  url: https://github.com
 
-
----
 
 
 
