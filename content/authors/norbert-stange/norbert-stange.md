@@ -1,14 +1,9 @@
-
-
-
-
 +++
 avatar = "/images/n.jpg"
-bio = "Need to write this all over again?"
-featured = true
+bio = "My kurz und bündig bio"
+draft = true
+featured = false
+social = []
 title = "Norbert Stange"
-[[social]]
-title = "GitHub"
-url = "https://github.com/n0rb3r7"
 
 +++
