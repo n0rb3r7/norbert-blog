@@ -1,7 +1,6 @@
 +++
 avatar = "/images/n.jpg"
 bio = "My furture bio"
-draft = true
 featured = true
 title = "Norbert Stange"
 [[social]]
