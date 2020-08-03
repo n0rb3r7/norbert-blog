@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Norbert Stange Blog
+  heading: 'Norbert Stange '
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
