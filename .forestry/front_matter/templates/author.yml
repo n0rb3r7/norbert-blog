@@ -43,6 +43,3 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
-pages:
-- content/authors/norbert-stange.md
-- content/authors/norbert-stange/norbert-stange.md
