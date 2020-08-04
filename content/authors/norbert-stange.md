@@ -1,7 +1,7 @@
 +++
 avatar = "/images/n.jpg"
 bio = "My bio in english?"
-featured = false
+featured = true
 social = []
 title = "Norbert Stange"
 
