@@ -1,9 +1,9 @@
 +++
-avatar = "/images/thiago-costa.jpg"
-bio = "Written by You. This is where your author bio lives. Share your work, your\njoys and of course, your Twitter handle.\n"
+avatar = "/images/n.jpg"
+bio = "Another test bio.\n"
 draft = true
-featured = false
-title = "Thiago Costa-(copy)"
+featured = true
+title = "Edgard Stange"
 [[social]]
 title = "github"
 url = "https://github.com"
