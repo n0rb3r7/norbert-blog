@@ -8,14 +8,11 @@ timeToRead = 1
 title = "My test article"
 
 +++
-
 # A title?
 
 Today like always, I sucked at declinations xD.
 
 Okay, now a picture
-
-![a knight](/images/121525.jpg "ohhh, the title")
 
 > ohh, a quote
 
