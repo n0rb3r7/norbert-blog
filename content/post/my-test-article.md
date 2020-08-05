@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Norbert Stange"]
 date = 2020-08-04T03:00:00Z
 draft = true
 excerpt = "Today I was awful with the german declinations. "
