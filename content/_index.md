@@ -4,7 +4,6 @@ hero:
   maxWidthPX: "678"
 seo:
   image: "/images/norbert-stange-in-osaka.webp"
-draft: true
 
 ---
 Hallo! I'm Norbert and this is my personal blog, where I'll be writing some stuff about web development, Japan, photography, drawing, movies, books, anime. In short, my interests.
