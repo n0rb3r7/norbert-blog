@@ -18,5 +18,5 @@ In my experience, the challenges that growing companies struggle with rarely ste
 But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves? Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
 
 <div class="Image__Small">
-  <img src="/images/small.jpg" alt="alt text for small image" />
+  <img src="/images/screenshot.png" alt="alt text for small image" />
 </div>
