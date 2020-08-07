@@ -6,8 +6,6 @@ draft = "false"
 hero = "/images/1500x500.jpg"
 timeToRead = 3
 title = "My first encounter with Hugo, Netlify and Forestry"
-seo =
-  image= "/images/norbert-stange-in-osaka.jpg"
 
 +++
 # The triplet
