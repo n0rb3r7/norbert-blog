@@ -1,6 +1,6 @@
 ---
 title: About Me
-hero: "/images/norbert-stange-in-osaka.jpg"
+
 ---
 
 
@@ -14,3 +14,5 @@ Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit ame
 
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
