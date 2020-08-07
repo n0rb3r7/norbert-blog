@@ -7,6 +7,9 @@ sections:
 - type: heading
   label: Content
 - type: document
+  path: content/about.md
+  label: About
+- type: document
   path: content/_index.md
   label: Home
 - type: directory
