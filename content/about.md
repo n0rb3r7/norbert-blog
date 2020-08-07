@@ -1,9 +1,14 @@
 ---
 title: About Me
+heading: ''
+maxWidthPX: 
+hero:
+  heading: ''
+  maxWidthPX: ''
+seo:
+  image: ''
 
 ---
-
-
 ---
 # título
 
