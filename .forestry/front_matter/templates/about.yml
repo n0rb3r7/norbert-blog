@@ -2,9 +2,20 @@
 label: About
 hide_body: false
 fields:
-- type: file
+- type: field_group
   name: hero
   label: hero
-- type: text
-  name: title
-  label: title
+  fields:
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: maxWidthPX
+    label: maxWidthPX
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: file
+    name: image
+    label: image
