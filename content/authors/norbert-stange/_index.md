@@ -1,7 +1,7 @@
 ---
 title: Norbert Stange
 bio: |
-  Finally my bio works. I'll update it later.
+  I used to make wooden swords when I was a kid, now I try to find bugs. I love progressive rock and k-pop.
 avatar: /images/n.jpg
 featured: true
 social:
@@ -12,7 +12,7 @@ social:
   - title: dribbble
     url: https://dribbble.com/n0rb3r7
   - title: instagram
-    url: https://dribbble.com/n0rb3r7
+    url: https://www.instagram.com/n0rb3rt/
 ---
 
 

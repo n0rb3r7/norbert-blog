@@ -2,8 +2,8 @@
 authors = ["Norbert Stange"]
 date = 2020-08-06T03:00:00Z
 excerpt = "My first expreience working with these three tools"
-draft = "true"
-hero = "/images/hero-3.jpg"
+draft = "false"
+hero = "/images/1500x500.jpg"
 timeToRead = 3
 title = "My first encounter with Hugo, Netlify and Forestry"
 
@@ -28,6 +28,9 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 #### H4
 ##### H5
 ###### H6
+
+
+<img class="Image__Small" src="/images/1500x500.jpg"/>
 
 ## Paragraph
 
