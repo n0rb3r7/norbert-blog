@@ -1,12 +1,8 @@
 ---
 title: About Me
-heading: ''
-maxWidthPX: 
-seo:
-  image: "/images/norbert-stange-in-osaka.webp"
-hero:
-  heading: My about page?
-  maxWidthPX: "667"
+
+---
+
 
 ---
 # título

@@ -19,5 +19,3 @@ fields:
   - type: file
     name: image
     label: image
-pages:
-- content/about.md
