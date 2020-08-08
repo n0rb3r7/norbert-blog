@@ -8,4 +8,6 @@ seo:
 ---
 Hallo! I'm Norbert and this is my personal site, in which I'll be writing some stuff about web development, Japan, photography, German, drawing, movies, books, anime. In short, my interests.
 
+![](/images/norbert-stange-in-osaka.jpg)
+
 ***
