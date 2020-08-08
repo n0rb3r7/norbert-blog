@@ -24,5 +24,9 @@ fields:
   config: {}
   template: home-hero
   label: hero
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
 pages:
 - content/about.md
