@@ -7,9 +7,6 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/about.md
-  label: About
-- type: document
   path: content/_index.md
   label: Home
 - type: directory
@@ -19,6 +16,9 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: document
+  path: content/about.md
+  label: About
 - type: heading
   label: Data
 - type: directory
