@@ -19,5 +19,10 @@ fields:
   config:
     min: 
     max: 
+- name: hero
+  type: include
+  config: {}
+  template: home-hero
+  label: hero
 pages:
 - content/about.md
