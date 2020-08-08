@@ -1,14 +1,8 @@
 ---
 title: About Me
-heading: ''
-maxWidthPX: 
-seo:
-  image: "/images/norbert-stange-in-osaka.webp"
-hero:
-  heading: My about page?
-  maxWidthPX: "667"
-
 ---
+<img class="Image__Small" src="/images/1500x500.jpg"/>
+
 # título
 
 Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
