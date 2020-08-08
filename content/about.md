@@ -1,5 +1,6 @@
 +++
 blocks = []
+gallery = ["/images/121525.jpg", "/images/raphael-koh-ddw2pdwich8-unsplash.jpg", "/images/1500x500.jpg"]
 heading = "hero title"
 image = "/images/norbert-stange-in-osaka.webp"
 maxWidthPX = 800
