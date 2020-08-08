@@ -1,4 +1,21 @@
 ---
 label: AboutMe
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: blocks
+  type: blocks
+  label: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
