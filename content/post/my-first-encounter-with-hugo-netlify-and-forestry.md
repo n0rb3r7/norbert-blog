@@ -2,7 +2,7 @@
 authors = ["Norbert Stange"]
 date = 2020-08-06T03:00:00Z
 excerpt = "My first expreience working with these three tools"
-draft = "false"
+draft = "true"
 hero = "/images/1500x500.jpg"
 timeToRead = 3
 title = "My first encounter with Hugo, Netlify and Forestry"
@@ -17,6 +17,35 @@ Hugo Static Site Generator v0.74.3-DA0437B4 windows/amd64 BuildDate: 2020-07-23T
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
+{{< highlight html >}}
+<script>
+var date = new Date();
+var year = date.getFullYear();
+var month = date.getMonth();
+var day = date.getDate();
+var minDate;
+
+$('#from_date').datepicker({
+  format: 'dd mmm yyyy',
+  minDate: date,
+  setDefaultDate: date,
+
+  onSelect: function () {
+
+    var toYear = this.date.getFullYear();
+    var toMonth = this.date.getMonth();
+    var toDay = this.date.getDate();
+    minDate = new Date(toYear, toMonth, toDay);
+
+    $("#to_date").datepicker({
+      format: 'dd mmm yyyy',
+      setDefaultDate: minDate,
+      minDate: minDate,
+    })
+  }
+});
+</script>
+{{< /highlight >}} 
 
 ## Headings
 
