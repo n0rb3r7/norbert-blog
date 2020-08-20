@@ -95,7 +95,10 @@ html
   <title>Example HTML5 Document</title>
 </head>
 <body>
-  <p>Test</p>
+  <p id="one">Test</p>
+  <script>
+    element = document.getElementById(one);
+  </script>
 </body>
 </html>
 {{< /highlight >}}
