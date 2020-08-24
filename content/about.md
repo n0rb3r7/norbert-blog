@@ -9,13 +9,10 @@ In 1997 I made **my first website with FrontPage 97**, thanks to my old school w
 
 During the time I was in Bahía Blanca studying **Biology Science** I started to chat online in English and I was able to make friends around the world which introduced me to **clothing textures** development for 3D avatars (the ones used in the 3D chat). At the beginning several friends helped me out and told me the steps for this process, but mainly one from New Zealand was the one who gave me the kick in the revival of my artistic side. :hushed: While we would speak about everything, she would taught me different techniques in **Photoshop** and then some tricks with **JavaScript** and **CSS** to get the flashy things done in each product page. This way I could catch the buyer's eye and sell my stuff. That was the point where I realized about my love for creating. Since then I've created textures, logos, banners, pixel art, websites, web and hybrid applications and whatever I vision in which most cases I need to learn to make my dream real.
 
-In the uni I learned OOP, PHP (old, I know), more JS, MySQL, MVC, team work and by my own all these years I'been a selftaught in Photoshop and Illustrator. Also, I've been studying German for quite a long time and a little of Japanese, of course this last language is the flippin' shieat when I don't practice it. That's why here I'll be posting according my mood.
-
-Of course, as the geek I am, I`m into overclocking computers/ phones, anime, *mechas* and more stuff that you'll have to ask me about. Oh and I love Japan.
-
+In the uni I learned OOP, PHP (old, I know), more JS, MySQL, MVC, team work in the time there and by my own all these years I'been a selftaught in Photoshop and Illustrator, which led me to design as well. Also, I've been studying German for quite a long time and a little of Japanese, of course this last language is the flippin' shieat when I don't practice it. That's why here I'll be posting according my mood.
 
 {{< figure src="/images/norbert-stange-in-osaka.jpg" title="Me at Osaka Castle" class="Image__medium" >}}
 
+Of course, as the geek I am, I`m into overclocking computers/ phones, anime, *mechas* and more stuff that you'll have to ask me about. Oh and I :heart: Japan.
 
-
-
+And I'd like to say, *never stop learning*. :octopus:
