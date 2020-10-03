@@ -15,6 +15,8 @@ _jagt einen blauen Stern_
 
 _oh, sind es Menschen?_
 
+Ich würde sagen, das nächste Haiku braucht ein Lied, oder?
+
 _Tausend Bäume da_
 
 _die Musik hält keinen Takt_
