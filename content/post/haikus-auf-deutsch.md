@@ -1,8 +1,9 @@
 +++
 authors = []
 date = 2020-09-28T03:00:00Z
+draft = true
 excerpt = "Letzten Freitag haben wir den ersten Stammtisch online gemacht.  Ich erzählte ein paar Haikus und eine kleine Geschichte."
-hero = "/images/forest-trees-northwestisbest-exploress.jpg"
+hero = "/images/baume.jpg"
 timeToRead = 3
 title = "Haikus auf Deutsch"
 
