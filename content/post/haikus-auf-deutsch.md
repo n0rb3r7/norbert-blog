@@ -1,6 +1,7 @@
 +++
-authors = []
+authors = ["Norbert Stange"]
 date = 2020-09-28T03:00:00Z
+draft = true
 excerpt = "Letzten Freitag haben wir den ersten Stammtisch online gemacht.  Ich erzählte ein paar Haikus und eine kleine Geschichte."
 hero = "/images/baume-1.jpg"
 timeToRead = 3
