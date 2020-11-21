@@ -1,9 +1,10 @@
 ---
 title: About me
----
+hero: ''
 
-Hello! I'm Norbert, a **web developer** who used to be a **peasant** living in the countryside in southern Patagonia, where I rode goats, pigs and made my own wooden swords, bows and toys. Now still in Patagonia, but not in the prettiest region. 
-I've been into the computers world since I was 9 and at 10 I got my first PC. It was a 486 with *Windows 95* and there I would start painting, recording music and playing games with it. It was *multimedia*. :sunglasses:
+---
+Hello! I'm Norbert, a **web developer** who used to be a **peasant** living in the countryside in southern Patagonia, where I rode goats, pigs and made my own wooden swords, bows and toys. Now still in Patagonia, but not in the prettiest region.
+I've been into the computers world since I was 9 and at 10 I got my first PC. It was a 486 with _Windows 95_ and there I would start painting, recording music and playing games with it. It was _multimedia_. :sunglasses:
 
 In 1997 I made **my first website with FrontPage 97**, thanks to my old school with its Computer Department. It was about mountain bikes and the following years this sport took over my life and all I had in mind was that, riding through the trails that the cows made in the foothills and breath pure cold air within the mountains.
 
@@ -13,6 +14,6 @@ In the uni I learned OOP, PHP (old, I know), more JS, MySQL, MVC, team work in t
 
 {{< figure src="/images/norbert-stange-in-osaka.jpg" title="Me at Osaka Castle" class="Image__medium" >}}
 
-Of course, as the geek I am, I`m into overclocking computers/ phones, anime, *mechas* and more stuff that you'll have to ask me about. Oh and I :heart: Japan.
+Of course, as the geek I am, I\`m into overclocking computers/ phones, anime, _mechas_ and more stuff that you'll have to ask me about. Oh and I :heart: Japan.
 
-And I'd like to say, *never stop learning*. :octopus:
+And I'd like to say, _never stop learning_. -super corny, but yeah- :octopus:
