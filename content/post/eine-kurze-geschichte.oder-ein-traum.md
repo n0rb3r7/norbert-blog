@@ -1,7 +1,6 @@
 +++
 authors = ["Norbert Stange"]
 date = 2020-11-20T03:00:00Z
-draft = true
 excerpt = "Eine kurze Geschichte. Oder ein Traum? Eine Kurzgeschichte, die über einen Traum geschrieben wurde. Ich weiß nicht mehr, ob es während der Nacht war oder ob es in diesen 5 Minuten vor dem Aufwachen war."
 hero = "/images/pling.jpg"
 timeToRead = 2
