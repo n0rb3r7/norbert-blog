@@ -1,7 +1,6 @@
 +++
 authors = ["Norbert Stange"]
 date = 2021-02-11T21:06:00Z
-draft = true
 excerpt = "Eine kleine Beschreibung von einigen Augen."
 hero = "/images/imagine.jpg"
 timeToRead = 0
