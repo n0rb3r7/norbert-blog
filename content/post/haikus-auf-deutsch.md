@@ -2,7 +2,7 @@
 authors = ["Norbert Stange"]
 date = 2020-09-28T03:00:00Z
 excerpt = "Letzten Freitag haben wir den ersten Stammtisch online gemacht.  Ich erzählte ein paar Haikus und eine kleine Geschichte."
-hero = "/images/baume-1.jpg"
+hero = "/images/luuun.jpg"
 timeToRead = 2
 title = "Haikus auf Deutsch"
 
