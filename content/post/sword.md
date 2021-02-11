@@ -2,7 +2,7 @@
 authors = ["Norbert Stange"]
 date = 2020-10-30T03:00:00Z
 excerpt = "Little story I came up with for a drawing contest. I lost the drawing, but not the story."
-hero = "/images/imagine.jpg"
+hero = "/images/moth.png"
 timeToRead = 2
 title = "Sword"
 
