@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-10-30T03:00:00Z
-draft = true
 excerpt = "Little story I came up with for a drawing contest. I lost the drawing, but not the story."
 hero = "/images/imagine.jpg"
 timeToRead = 2
