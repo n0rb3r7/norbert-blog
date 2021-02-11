@@ -1,7 +1,6 @@
 +++
 authors = ["Norbert Stange"]
 date = 2021-01-07T03:00:00Z
-draft = true
 excerpt = "Comienzo de un sueño que me gustaría volver a seguir viendo en el cine."
 hero = "/images/glink.jpg"
 timeToRead = 0
