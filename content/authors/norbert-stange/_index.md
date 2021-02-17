@@ -10,6 +10,6 @@ social:
 - title: dribbble
   url: https://dribbble.com/n0rb3r7
 - title: instagram
-  url: https://dribbble.com/n0rb3r7
+  url: https://www.instagram.com/n0rb3rt/
 
 ---
