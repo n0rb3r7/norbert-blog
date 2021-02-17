@@ -1,9 +1,9 @@
 +++
 authors = ["Norbert Stange"]
 date = 2021-02-11T21:06:00Z
-excerpt = "Eine kleine Beschreibung von einigen Augen."
+excerpt = "Eine kleine Beschreibung von einigen Augen. Augen, die ein Traum waren."
 hero = "/images/imagine.jpg"
-timeToRead = 0
+timeToRead = 2
 title = "Ihre Augen, mein letzter Traum"
 
 +++
